@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (si tu veux éviter d'envoyer des datasets lourds)
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
